@@ -1,0 +1,5 @@
+{
+    "port" : "5000",
+    "jwtSecret": "thomas dayz",
+    "mongoUri": "mongodb+srv://dima:Thomas19911@cluster0.miapr.mongodb.net/app?retryWrites=true&w=majority"
+}
